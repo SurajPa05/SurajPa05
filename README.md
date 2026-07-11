@@ -9,8 +9,9 @@
 </div>
 
 <br>
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+undergrad+from+Kerala%2C+India;Breaking+things+ethically+since+day+one;Currently+shipping+PacketAtlas+v2;Coffee+-%3E+Code+-%3E+Debug+-%3E+Repeat" alt="Typing SVG" />
+</div>
 
 I build software that lives close to the OS, the network, and the wire — offensive security, systems programming, and the occasional AI agent.
 

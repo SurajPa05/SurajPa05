@@ -62,7 +62,6 @@ I build software that lives close to the OS, the network, and the wire — offen
 <img src="https://raw.githubusercontent.com/SurajPa05/SurajPa05/output/github-contribution-grid-snake.svg"/>
 </div>
 
-*(one-time setup — see `snake.yml` below, takes 2 minutes)*
 
 <br>
 

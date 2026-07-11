@@ -16,33 +16,30 @@ I build software that lives close to the OS, the network, and the wire — offen
 
 <br>
 
-## Stack
+## 💻 Languages & Frameworks
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,c,java,bash,react,nodejs,fastapi,linux,docker,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,java,js,c,react,nodejs,fastapi,bash,linux,git&theme=dark"/>
 </div>
 
-**Security toolbox:** Burp Suite · Wireshark · Nmap · Metasploit · Hashcat · Scapy
-
-<br>
-
-## Featured Builds
-
-| Project | What it does |
-|---|---|
-| 🧠 **[TeacherMate.AI](#)** | AI exam evaluator — Gemini Vision + Groq Llama, auto CO mapping, Excel reports |
-| 📡 **[PacketAtlas](#)** | Real-time packet analyzer — Scapy + AsyncIO + WebSockets, live traffic viz |
-| 👻 **[GhostARP](#)** | ARP discovery & packet-crafting toolkit built on Scapy |
-
-<br>
-
-## Trophy Case
+## 🛡️ Security Arsenal
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SurajPa05&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title=CTF,Contest"/>
-</div>
 
-🏆 1st — Hackatly 4.0 &nbsp;·&nbsp; 🥈 2nd — Yudhya'25 &nbsp;·&nbsp; 🏆 College CTF Winner &nbsp;·&nbsp; 🏅 Top 149/2000+ — IIIT Kottayam CTF
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=00FF00)
+![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-1E1E1E?style=for-the-badge&logo=gnubash&logoColor=00FF00)
+![Ghidra](https://img.shields.io/badge/Ghidra-2A2A2A?style=for-the-badge&logo=ghidra&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+</div>
 
 <br>
 
@@ -69,11 +66,20 @@ I build software that lives close to the OS, the network, and the wire — offen
 
 <br>
 
-## 🚧 Currently Building
+## 🔓 root@suraj:~#
 
-- PacketAtlas v2
-- AI browser-automation agent
-- Prepping for OSCP-style labs
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=nmap+-sV+-p-+10.10.10.1;%5B%2B%5D+Found+3+open+ports...;hydra+-l+admin+-P+rockyou.txt;%5B%2B%5D+Exploit+chain+in+progress...;%5B%23%5D+Hunting+CVEs+%26+bug+bounties;%5B%23%5D+Prepping+for+OSCP" alt="Terminal SVG" />
+</div>
+
+```bash
+$ cat focus.txt
+> Web App Pentesting
+> Reverse Engineering
+> CTF grinding (HTB / THM)
+> Building GhostARP into a full recon suite
+> Prepping for OSCP-style labs
+```
 
 <br>
 
